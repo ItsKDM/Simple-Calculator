@@ -1,4 +1,4 @@
-package com.example.souvikray.calculatorv2;
+package com.example.calculator;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
